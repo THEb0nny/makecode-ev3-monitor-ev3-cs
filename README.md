@@ -1,5 +1,5 @@
 
-> Открыть эту страницу в [https://theb0nny.github.io/makecode-ev3-monitor_ev3_cs/](https://theb0nny.github.io/makecode-ev3-monitor_ev3_cs/)
+> Открыть эту страницу в [https://theb0nny.github.io/makecode-ev3-monitor-ev3-cs/](https://theb0nny.github.io/makecode-ev3-monitor-ev3-cs/)
 
 ## Использовать это расширение
 
@@ -8,7 +8,7 @@
 * открыть [/pxt-ev3/beta/](/pxt-ev3/beta/)
 * нажмите на **Новый проект**
 * нажмите **Расширения** в меню-шестерёнке
-* найдите **https://github.com/theb0nny/makecode-ev3-monitor_ev3_cs** и импортируйте
+* найдите **https://github.com/theb0nny/makecode-ev3-monitor-ev3-cs** и импортируйте
 
 ## Править этот проект
 
@@ -16,7 +16,7 @@
 
 * открыть [/pxt-ev3/beta/](/pxt-ev3/beta/)
 * нажмите на **Импорт**, затем **Импорт URL**
-* вставьте **https://github.com/theb0nny/makecode-ev3-monitor_ev3_cs** и нажмите Импорт
+* вставьте **https://github.com/theb0nny/makecode-ev3-monitor-ev3-cs** и нажмите Импорт
 
 #### Метаданные (используются для поиска, рендеринга)
 
