@@ -1,6 +1,6 @@
 const lineSensors: sensors.ColorSensor[] = [sensors.color1, sensors.color2, sensors.color3, sensors.color4]; // Массив всех портов датчиков цвета ev3
 
-const fileName = "ref_raw_ev3_cs.rtf"; // Имя временного файла записи медианных значений
+const fileName = "ev3_cs_ref_raw.rtf"; // Имя временного файла записи медианных значений
 
 function Main() {
     let state = State.ShowValues; // Состояние конечного автомата
