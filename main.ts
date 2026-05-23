@@ -147,5 +147,5 @@ forever(function () {
         }
     }
 
-    loops.pause(1);
+    loops.pause(10);
 });
