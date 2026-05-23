@@ -5,7 +5,7 @@ const lineSensors: sensors.ColorSensor[] = [
     sensors.color4
 ]; // Массив всех портов датчиков цвета ev3
 
-const fileName = "/home/root/lms2012/prjs/nxt_ls_ref_raw.rtf"; // Имя временного файла записи медианных значений
+const fileName = "/home/root/lms2012/prjs/BrkProg_SAVE/nxt_ls_ref_raw.rtf"; // Имя временного файла записи медианных значений
 
 let state = State.ShowValues; // Состояние конечного автомата
 
